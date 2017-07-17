@@ -1,0 +1,26 @@
+{
+  "name": "setoelkahfi.web.id",
+  "version": "1.0.0",
+  "description": "My profile page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setoelkahfi/setoelkahfi.web.id.git"
+  },
+  "keywords": [
+    "reactjs",
+    "seto",
+    "elkahfi",
+    "profile",
+    "page"
+  ],
+  "author": "Seto Elkahfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setoelkahfi/setoelkahfi.web.id/issues"
+  },
+  "homepage": "https://github.com/setoelkahfi/setoelkahfi.web.id#readme"
+}
