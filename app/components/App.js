@@ -10,7 +10,8 @@ const mainStyle = {
 	background: '#111',
 	background: 'rgba(0,0,0,0.65)',
 	width: 300,
-	textAlign: 'left'
+	textAlign: 'left',
+	padding: 10
 };
 
 const App = () =>
