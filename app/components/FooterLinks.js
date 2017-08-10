@@ -28,13 +28,15 @@ const linkStyle = {
 
 const FooterLinks = () => (
     <footer style={footerStyle}>
-		<a style={linkStyle} href="https://id.linkedin.com/in/setoelkahfi" alt="LinkedIn" target="_blank">linkedin</a>
-		<a style={linkStyle} href="https://www.quora.com/profile/Seto-Elkahfi" alt="Quora" target="_blank">quora</a>
-		<a style={linkStyle} href="stackoverflow.com/users/1137814/seto" alt="StackOverflow" target="_blank">stackoverflow</a>
-		<a style={linkStyle} href="https://fb.com/setoelkahfi" alt="Facebook" target="_blank">facebook</a>
-		<a style={linkStyle} href="https://twitter.com/setoelkahfi" alt="@setoelkahfi" target="_blank">@setoelkahfi</a>
 		<a style={linkStyle} href="https://github.com/setoelkahfi" alt="GitHub" target="_blank">github</a>
+		<a style={linkStyle} href="https://id.linkedin.com/in/setoelkahfi" alt="LinkedIn" target="_blank">linkedin</a>
+		<a style={linkStyle} href="https://stackoverflow.com/users/1137814/seto" alt="StackOverflow" target="_blank">stackoverflow</a>
+		<a style={linkStyle} href="https://www.quora.com/profile/Seto-Elkahfi" alt="Quora" target="_blank">quora</a>
 		<a style={linkStyle} href="http://blog.setoelkahfi.web.id" alt="Blog" target="_blank">blog</a>
+		<a style={linkStyle} href="https://www.youtube.com/user/setoelkahfi?sub_confirmation=1" alt="YouTube" target="_blank">youtube</a>
+		<a style={linkStyle} href="https://fb.com/setoelkahfi" alt="Facebook" target="_blank">facebook</a>
+		<a style={linkStyle} href="https://www.instagram.com/setoelkahfi/" alt="Instagram" target="_blank">instagram</a>
+		<a style={linkStyle} href="https://twitter.com/setoelkahfi" alt="Twitter" target="_blank">twitter</a>
     </footer>
 );
 
